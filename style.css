@@ -1,0 +1,23 @@
+body {
+    margin: 10;
+    align-items: center;
+    background-color: #fff000;
+}
+
+p {
+    color: #000;
+    align-content: center;
+}
+
+h1 {
+    font-weight: bold;
+    font-family:sans-serif;
+    align-items: center;
+}
+
+table {
+    color: black;
+    border-color: aqua;
+    
+    align-content: center;
+}
